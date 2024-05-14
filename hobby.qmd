@@ -1,0 +1,16 @@
+---
+title: "My Hobby"
+---
+
+*One Piece Trading Card Game*
+
+![](img/onepiece.jpg)
+
+It is quite a new TCG that released on July 8th, 2022. My friend introduced to me about this game and I started to play it last year December. I have always like to play TCG during my childhood days but do not have the chance to play it. I am glad that I have the chance to play it now. I have been playing this game for 6 months and I am still learning the game. I have a few friends that play this game with me and we always have fun playing it. I am looking forward to play this game with more people and make more friends.
+
+::: {style="border-bottom: 5px solid #e5e5e5; padding-bottom: 10px;"}
+:::
+
+*My First Win* Throughout the 6 months, i have finally achieve my first victory in the game. I was so happy that I have finally won a game. I have been losing a lot of games and I was quite demoralised. I am glad that I have finally won a game. I will continue to play this game and improve my skills. I hope to win more games in the future.
+
+![](img/winner.jpg)

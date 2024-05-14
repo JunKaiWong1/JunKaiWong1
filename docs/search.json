@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "lab02",
+    "title": "Self Introduction",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Wong Jun Kai\nAAI\nSingapore Institute of Technology\n\n\n\n\n\n\nHello!, I am Wong Jun Kai, a student from AAI in SIT. I am currently 24 years old and I am interested in AAI course. I am currently in my year 1 Trimester 3. My highest qualification is Diploma in Information Technology.\n\n\n\nMy Project - Project\n\n\n\nMy Hobby - Hobby"
   },
   {
     "objectID": "lab02/index.html",
@@ -26,5 +26,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "hobby.html",
+    "href": "hobby.html",
+    "title": "My Hobby",
+    "section": "",
+    "text": "One Piece Trading Card Game\n\nIt is quite a new TCG that released on July 8th, 2022. My friend introduced to me about this game and I started to play it last year December. I have always like to play TCG during my childhood days but do not have the chance to play it. I am glad that I have the chance to play it now. I have been playing this game for 6 months and I am still learning the game. I have a few friends that play this game with me and we always have fun playing it. I am looking forward to play this game with more people and make more friends.\n\n\n\nMy First Win Throughout the 6 months, i have finally achieve my first victory in the game. I was so happy that I have finally won a game. I have been losing a lot of games and I was quite demoralised. I am glad that I have finally won a game. I will continue to play this game and improve my skills. I hope to win more games in the future."
   }
 ]
