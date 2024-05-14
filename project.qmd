@@ -2,23 +2,23 @@
 title: "My Project"
 ---
 
-##breadth-first-search Project
+## breadth-first-search Project
 
-##Background
+## Background
 
 In the vast landscape of algorithms that underpin artificial intelligence, the breadth-first-search (BFS) algorithm shines as a beacon of simplicity yet profound utility. It is versatile and has a foundational significance where it holds a pivotal role in computational problem-solving that our team is significantly interested in. BFS finds applications in diverse fields ranging from network routing and social network analysis to maze-solving puzzles and artificial intelligence. Breadth First Search (BFS) is a fundamental graph traversal algorithm that starts traversing the graph from the root node and explores neighboring nodes at the present depth prior to moving on to the node at the next depth level. It involves visiting all the connected nodes of a graph in a level-by-level manner. It can also be used for traversing or searching a graph or tree data structure. Unlike trees, graphs may contain cycles, there are chances of where the algorithm will chance upon the same node again. To avoid processing a node more than once, it is divided into two categories, visited and not visited. A boolean visited array is used to mark the visited vertices where it is assumed that all vertices are reachable from the starting vertex. BFS uses a queue data structure for traversal, following the rule of first in first out, adding from the rear and removing from the front. Our team will be interacting with Claude, an AI Chatbot developed by Anthropic, founded by 2 senior figures who worked at OpenAI. It is a research company focused on safe and beneficial AI development. It's known for its natural language processing capabilities and its "constitutional design," which aims to ensure its outputs are helpful, harmless, and honest. It is said to score higher on Bar tests and that it was twice as good at giving harmless response.
 
 ::: {style="border-bottom: 5px solid #e5e5e5; padding-bottom: 10px;"}
 :::
 
-##What makes BFS stand out among other graph algorithms?
+## What makes BFS stand out among other graph algorithms?
 
 Claude stated that BFS guaranteed to find the shortest path between a given source node and all other nodes in an unweighted graph, provided that no negative-weight cycles exist. BFS traverses the graph level by level, visiting all the vertices at the current depth level before moving on to the next level. It is also particularly memory-efficient for sparse graphs, where the number of edges is much smaller than the maximum possible number of edges. In such cases, BFS can explore all reachable vertices using a queue data structure, which requires less memory than the recursion stack used in the depth-first search (DFS). BFS is inherently parallelizable, as all vertices at the same level can be processed concurrently. This property makes BFS suitable for parallel computing environments, where multiple processors can work on different levels simultaneously, potentially reducing the overall execution time. Lastly, BFS is conceptually simple and easy to understand, especially when compared to more complex algorithms like Dijkstra's algorithm or the A\* algorithm. This simplicity makes BFS a good starting point for learning graph algorithms and data structures.
 
 ::: {style="border-bottom: 5px solid #e5e5e5; padding-bottom: 10px;"}
 :::
 
-##Conclusion
+## Conclusion
 
 In all, we can conclude how BFS surrounds us in our daily lives from knowing our connections on social media to getting to our destination within the shortest time possible. The documentation provides a comprehensive and extensive overview of the Breadth First Search (BFS) algorithm where we cover its applications and address its limitations. With the AI tool, Claude, we were able to evaluate the completeness, clarity and relevance of the information provided. It highlights the use of BFS in real-world applications in maps, emphasizing the ability of the algorithm to find the shortest path, solving problems efficiently as well as in social networking. Furthermore, it is to note that this algorithm may not be the optimal choice in certain scenarios especially when dealing with large-scale problems, weighted graphs or situations requiring additional constraints.
 

@@ -2,7 +2,7 @@
 title: "My Hobby"
 ---
 
-##One Piece Trading Card Game
+## One Piece Trading Card Game
 
 ![](img/onepiece.jpg)
 
