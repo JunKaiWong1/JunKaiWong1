@@ -13,17 +13,22 @@ title: "Self Introduction"
 -   Singapore Institute of Technology
 :::
 :::
-<div style="border-bottom: 5px solid #e5e5e5; padding-bottom: 10px;">
-</div>
+
+::: {style="border-bottom: 5px solid #e5e5e5; padding-bottom: 10px;"}
+:::
+
 Hello!, I am Wong Jun Kai, a student from AAI in SIT. I am currently 24 years old and I am interested in AAI course. I am currently in my year 1 Trimester 3. My highest qualification is Diploma in Information Technology.
 
-<div style="border-bottom: 5px solid #e5e5e5; padding-bottom: 10px;">
-</div>
-*My Project*
+::: {style="border-bottom: 5px solid #e5e5e5; padding-bottom: 10px;"}
+:::
+
+## My Project
+
 -   [Project](project.qmd)
 
-<div style="border-bottom: 5px solid #e5e5e5; padding-bottom: 10px;">
-</div>
+::: {style="border-bottom: 5px solid #e5e5e5; padding-bottom: 10px;"}
+:::
 
-*My Hobby*
+## My Hobby
+
 -   [Hobby](hobby.qmd)
