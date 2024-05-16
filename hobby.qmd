@@ -17,3 +17,6 @@ Throughout the 6 months, i have finally achieve my first victory in the game. I 
 
 ![](img/winner.jpg)
 
+## How to play One Piece TCG
+
+{{< video "https://www.youtube.com/watch?v=DKqLcsXUYik") >}}
